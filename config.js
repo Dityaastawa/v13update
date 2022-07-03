@@ -32,7 +32,7 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais',
   'https://melcanz.com': 's3Icbx3z',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://x-restapi.herokuapp.com': 'BETA'
+  'https://x-restapi.herokuapp.com': 'xapi354'
 }
 
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
